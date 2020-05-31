@@ -30,6 +30,7 @@
 		B78EB698247D52720031E7DB /* weatherManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = weatherManager.swift; sourceTree = "<group>"; };
 		B78EB69A247E639C0031E7DB /* weatherData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = weatherData.swift; sourceTree = "<group>"; };
 		B78EB69E247E6FC40031E7DB /* weatherModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = weatherModel.swift; sourceTree = "<group>"; };
+		B78EB6A12483B24C0031E7DB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -179,6 +180,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				B75803A92467F9AC000D4BC1 /* Base */,
+				B78EB6A12483B24C0031E7DB /* en */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
